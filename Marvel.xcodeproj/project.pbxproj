@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		B1B48C242CBEE55C000EDCE6 /* ComposableArchitecturePattern in Frameworks */ = {isa = PBXBuildFile; productRef = B1B48C232CBEE55C000EDCE6 /* ComposableArchitecturePattern */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		B1B48BBE2CBED228000EDCE6 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -29,9 +33,22 @@
 		B1B48BC72CBED228000EDCE6 /* MarvelUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MarvelUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		B1B48CA72CC028DD000EDCE6 /* Exceptions for "Marvel" folder in "Marvel" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = B1B48BAB2CBED226000EDCE6 /* Marvel */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		B1B48BAE2CBED226000EDCE6 /* Marvel */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				B1B48CA72CC028DD000EDCE6 /* Exceptions for "Marvel" folder in "Marvel" target */,
+			);
 			path = Marvel;
 			sourceTree = "<group>";
 		};
@@ -52,6 +69,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B1B48C242CBEE55C000EDCE6 /* ComposableArchitecturePattern in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -78,6 +96,7 @@
 				B1B48BAE2CBED226000EDCE6 /* Marvel */,
 				B1B48BC02CBED228000EDCE6 /* MarvelTests */,
 				B1B48BCA2CBED228000EDCE6 /* MarvelUITests */,
+				B1B48C222CBEE55C000EDCE6 /* Frameworks */,
 				B1B48BAD2CBED226000EDCE6 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -90,6 +109,13 @@
 				B1B48BC72CBED228000EDCE6 /* MarvelUITests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		B1B48C222CBEE55C000EDCE6 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -112,6 +138,7 @@
 			);
 			name = Marvel;
 			packageProductDependencies = (
+				B1B48C232CBEE55C000EDCE6 /* ComposableArchitecturePattern */,
 			);
 			productName = Marvel;
 			productReference = B1B48BAC2CBED226000EDCE6 /* Marvel.app */;
@@ -195,6 +222,9 @@
 			);
 			mainGroup = B1B48BA32CBED226000EDCE6;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				B1B48C202CBEE506000EDCE6 /* XCRemoteSwiftPackageReference "ComposableArchitecturePattern" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = B1B48BAD2CBED226000EDCE6 /* Products */;
 			projectDirPath = "";
@@ -396,6 +426,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Marvel/Info.plist;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -435,6 +466,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Marvel/Info.plist;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -591,6 +623,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		B1B48C202CBEE506000EDCE6 /* XCRemoteSwiftPackageReference "ComposableArchitecturePattern" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/jonnyholland/ComposableArchitecturePattern";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		B1B48C232CBEE55C000EDCE6 /* ComposableArchitecturePattern */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = B1B48C202CBEE506000EDCE6 /* XCRemoteSwiftPackageReference "ComposableArchitecturePattern" */;
+			productName = ComposableArchitecturePattern;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = B1B48BA42CBED226000EDCE6 /* Project object */;
 }
