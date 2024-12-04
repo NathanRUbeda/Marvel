@@ -1,0 +1,773 @@
+{
+	"code": 200,
+	"status": "Ok",
+	"copyright": "© 2024 MARVEL",
+	"attributionText": "Data provided by Marvel. © 2024 MARVEL",
+	"attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2024 MARVEL</a>",
+	"etag": "068f013794305709beec4fb390266865092fc247",
+	"data": {
+		"offset": 0,
+		"limit": 20,
+		"total": 3,
+		"count": 3,
+		"results": [
+			{
+				"id": 1009663,
+				"name": "Venom (Flash Thompson)",
+				"description": "Flash Thompson was the high school bully of Peter Parker while also being one of Spider-Man's biggest fans. After losing his legs during military service, he became the new Venom, working as an operative of the United States government.",
+				"modified": "2016-05-25T12:51:24-0400",
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/7/80/5269668c7d5df",
+					"extension": "jpg"
+				},
+				"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009663",
+				"comics": {
+					"available": 130,
+					"collectionURI": "http://gateway.marvel.com/v1/public/characters/1009663/comics",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/28227",
+							"name": "Amazing Spider-Man (1999) #622"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/30317",
+							"name": "Amazing Spider-Man (1999) #642"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/30322",
+							"name": "Amazing Spider-Man (1999) #647"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/35521",
+							"name": "Amazing Spider-Man (1999) #654"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/35503",
+							"name": "Amazing Spider-Man (1999) #665"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/40025",
+							"name": "Amazing Spider-Man (1999) #665 (AMAZING SPIDER-MAN 665 I AM CAPTAIN AMERICA VARIANT)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/35532",
+							"name": "Amazing Spider-Man (1999) #668"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/41759",
+							"name": "Amazing Spider-Man (1999) #668 (2nd Printing Variant)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/35529",
+							"name": "Amazing Spider-Man (1999) #669"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/22979",
+							"name": "Amazing Spider-Man Family (2008) #3"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/23834",
+							"name": "Amazing Spider-Man: Extra! (2008) #3"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/65895",
+							"name": "Amazing Spider-Man: Venom Inc. Omega (2018) #1"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/110313",
+							"name": "Carnage (2023) #1"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/110314",
+							"name": "Carnage (2023) #2"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/110315",
+							"name": "Carnage (2023) #3"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/110316",
+							"name": "Carnage (2023) #4"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/110317",
+							"name": "Carnage (2023) #5"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/110318",
+							"name": "Carnage (2023) #6"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/110319",
+							"name": "Carnage (2023) #7"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/110320",
+							"name": "Carnage (2023) #8"
+						}
+					],
+					"returned": 20
+				},
+				"series": {
+					"available": 35,
+					"collectionURI": "http://gateway.marvel.com/v1/public/characters/1009663/series",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/series/454",
+							"name": "Amazing Spider-Man (1999 - 2013)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/series/5376",
+							"name": "Amazing Spider-Man Family (2008 - 2009)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/series/6604",
+							"name": "Amazing Spider-Man: Extra! (2008 - 2009)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/series/23906",
+							"name": "Amazing Spider-Man: Venom Inc. Omega (2018)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/series/37716",
+							"name": "Carnage (2023 - Present)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/series/32338",
+							"name": "Extreme Carnage Alpha (2021)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/series/32340",
+							"name": "Extreme Carnage: Agony (2021)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/series/32341",
+							"name": "Extreme Carnage: Lasher (2021)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/series/32342",
+							"name": "Extreme Carnage: Phage (2021)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/series/32343",
+							"name": "Extreme Carnage: Riot (2021)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/series/32345",
+							"name": "Extreme Carnage: Toxin (2021)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/series/16410",
+							"name": "Guardians of the Galaxy (2013 - 2015)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/series/18897",
+							"name": "Guardians of the Galaxy Annual (2014)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/series/22420",
+							"name": "GUARDIANS OF THE GALAXY VOL. 4 HC (2017)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/series/16413",
+							"name": "Minimum Carnage: Alpha (2012)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/series/16412",
+							"name": "Minimum Carnage: Omega (2012)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/series/2060",
+							"name": "Peter Parker: Spider-Man (1999 - 2003)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/series/15298",
+							"name": "Scarlet Spider (2011 - 2012)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/series/9799",
+							"name": "Secret Avengers (2010 - 2012)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/series/969",
+							"name": "Spider-Man Loves Mary Jane (2005 - 2007)"
+						}
+					],
+					"returned": 20
+				},
+				"stories": {
+					"available": 137,
+					"collectionURI": "http://gateway.marvel.com/v1/public/characters/1009663/stories",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/32341",
+							"name": "Story B 4 of 5",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/49028",
+							"name": "1 of 1",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/49029",
+							"name": "1 of 1",
+							"type": "interiorStory"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/51004",
+							"name": "Venom: Lethal Protector 6, Spider-Man: Mysterio Manifesto 3",
+							"type": "interiorStory"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/52881",
+							"name": "1 of 1",
+							"type": "interiorStory"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/84735",
+							"name": "Cover #84735",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/89221",
+							"name": "Cover Venom #3",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/89891",
+							"name": "Venom (2011) #3",
+							"type": "interiorStory"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/92878",
+							"name": "Venom (2011) #1, 3rd Printing Variant",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/90036",
+							"name": "VENOM 1 QUESADA SKETCH VARIANT ",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/90034",
+							"name": "VENOM 1 SIQUEIRA VARIANT",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/90205",
+							"name": "Venom (2011) #1, 2nd Printing Variant",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/89015",
+							"name": "Venom (2011) #3, X-Men Art Variant",
+							"type": "interiorStory"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/90535",
+							"name": "Venom #4",
+							"type": "interiorStory"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/89846",
+							"name": "Amazing Spider-Man (1999) #654, 2nd Printing Variant",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/90706",
+							"name": "Interior #90706",
+							"type": "interiorStory"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/93677",
+							"name": "Interior #93677",
+							"type": "interiorStory"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/91156",
+							"name": "Venom #5 Interior",
+							"type": ""
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/93608",
+							"name": "Venom #7",
+							"type": "interiorStory"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/78578",
+							"name": "Amazing Spider-Man (1999) #669 - Int",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 20
+				},
+				"events": {
+					"available": 1,
+					"collectionURI": "http://gateway.marvel.com/v1/public/characters/1009663/events",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/events/305",
+							"name": "Spider-Island"
+						}
+					],
+					"returned": 1
+				},
+				"urls": [
+					{
+						"type": "detail",
+						"url": "http://marvel.com/characters/63/venom?utm_campaign=apiRef&utm_source=899bc84164f119d0b3c7bdfbdf856d5b"
+					},
+					{
+						"type": "wiki",
+						"url": "http://marvel.com/universe/Thompson,_Flash?utm_campaign=apiRef&utm_source=899bc84164f119d0b3c7bdfbdf856d5b"
+					},
+					{
+						"type": "comiclink",
+						"url": "http://marvel.com/comics/characters/1009663/venom_flash_thompson?utm_campaign=apiRef&utm_source=899bc84164f119d0b3c7bdfbdf856d5b"
+					}
+				]
+			},
+			{
+				"id": 1010788,
+				"name": "Venom (Mac Gargan)",
+				"description": "One of Spider-Man's oldest enemies, Mac Gargan has recently abandoned his Scorpion suit and identity and bonded with the alien symbiote that had previously been hosted by Peter Parker and Eddie Brock, becoming the new Venom.",
+				"modified": "2014-03-05T13:58:37-0500",
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/5/50/531773a2ac20a",
+					"extension": "jpg"
+				},
+				"resourceURI": "http://gateway.marvel.com/v1/public/characters/1010788",
+				"comics": {
+					"available": 23,
+					"collectionURI": "http://gateway.marvel.com/v1/public/characters/1010788/comics",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/37071",
+							"name": "Amazing Spider-Man (1999) #647 (MCNIVEN VARIANT)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/34135",
+							"name": "Amazing Spider-Man (1999) #648"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/30324",
+							"name": "Amazing Spider-Man (1999) #649"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/38841",
+							"name": "Amazing Spider-Man (1999) #649 (2ND PRINTING VARIANT)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/35528",
+							"name": "Amazing Spider-Man (1999) #667"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/15869",
+							"name": "Avengers: The Initiative (2007) #3"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/6040",
+							"name": "Beyond! (Hardcover)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/4447",
+							"name": "Beyond! (2006) #1"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/37066",
+							"name": "Chaos War: Ares (2010) #1"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/4216",
+							"name": "Civil War (2006) #1"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/5075",
+							"name": "Civil War (2006) #5"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/5142",
+							"name": "Civil War (2006) #5 (TURNER SKETCH VARIANT)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/5077",
+							"name": "Civil War (2006) #5 (TURNER VARIANT)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/29541",
+							"name": "Incredible Hulks (2010) #602 (SHS VARIANT)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/24403",
+							"name": "Amazing Spider-Man (1999) #596"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/28631",
+							"name": "Amazing Spider-Man (1999) #596 (2ND PRINTING VARIANT)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/5812",
+							"name": "Thunderbolts (2006) #110"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/5882",
+							"name": "Thunderbolts (2006) #110 (Leinil Yu Variant Cover)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/5965",
+							"name": "Thunderbolts (2006) #111"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/16123",
+							"name": "Thunderbolts (2006) #116"
+						}
+					],
+					"returned": 20
+				},
+				"series": {
+					"available": 11,
+					"collectionURI": "http://gateway.marvel.com/v1/public/characters/1010788/series",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/series/454",
+							"name": "Amazing Spider-Man (1999 - 2013)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/series/1945",
+							"name": "Avengers: The Initiative (2007 - 2010)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/series/997",
+							"name": "Beyond! (2006)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/series/1928",
+							"name": "Beyond! (2007)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/series/13259",
+							"name": "Chaos War: Ares (2010)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/series/1067",
+							"name": "Civil War (2006 - 2007)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/series/8842",
+							"name": "Incredible Hulks (2010 - 2011)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/series/18527",
+							"name": "Thunderbolts (2006 - 2012)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/series/2945",
+							"name": "Thunderbolts by Warren Ellis Vol. 1: Faith in Monsters Premiere (2007)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/series/4896",
+							"name": "THUNDERBOLTS: REASON IN MADNESS 1 (2008)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/series/22657",
+							"name": "Venom (2016 - 2018)"
+						}
+					],
+					"returned": 11
+				},
+				"stories": {
+					"available": 25,
+					"collectionURI": "http://gateway.marvel.com/v1/public/characters/1010788/stories",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/3924",
+							"name": "THUNDERBOLTS (2006) #110",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/3926",
+							"name": "Leinil Yu Cover",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/5621",
+							"name": "BEYOND! (2006) #1",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/5888",
+							"name": "5 of 7 - 7XLS",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/5890",
+							"name": "Cover #5890",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/5892",
+							"name": "Cover #5892",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/5900",
+							"name": "5 of 7 - 7XLS",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/7684",
+							"name": "THUNDERBOLTS (2006) #111",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/7686",
+							"name": "Ariel Olivetti Cover",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/32927",
+							"name": "THUNDERBOLTS (2006) #116",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/82168",
+							"name": "Interior #82168",
+							"type": "interiorStory"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/94768",
+							"name": "Amazing Spider-Man (1999) #647, MCNIVEN VARIANT",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/94784",
+							"name": "Incredible Hulks (2009) #602, SHS VARIANT",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/62456",
+							"name": "Amazing Spider-Man (1999) #596, 2nd Printing Variant",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/53943",
+							"name": "Amazing Spider-Man (1999) #596",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/32406",
+							"name": "Avengers: The Initiative (2007) #3 - Int",
+							"type": "interiorStory"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/69475",
+							"name": "Amazing Spider-Man (1999) #649 - Int",
+							"type": "interiorStory"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/89954",
+							"name": "Amazing Spider-Man (1999) #666, Variant",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/89074",
+							"name": "Amazing Spider-Man (1999) #667 - Int",
+							"type": "interiorStory"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/76215",
+							"name": "Amazing Spider-Man (1999) #648",
+							"type": "cover"
+						}
+					],
+					"returned": 20
+				},
+				"events": {
+					"available": 5,
+					"collectionURI": "http://gateway.marvel.com/v1/public/characters/1010788/events",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/events/296",
+							"name": "Chaos War"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/events/238",
+							"name": "Civil War"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/events/318",
+							"name": "Dark Reign"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/events/255",
+							"name": "Initiative"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/events/305",
+							"name": "Spider-Island"
+						}
+					],
+					"returned": 5
+				},
+				"urls": [
+					{
+						"type": "detail",
+						"url": "http://marvel.com/characters/1010788/venom_mac_gargan/featured?utm_campaign=apiRef&utm_source=899bc84164f119d0b3c7bdfbdf856d5b"
+					},
+					{
+						"type": "wiki",
+						"url": "http://marvel.com/universe/Venom_(Mac_Gargan)?utm_campaign=apiRef&utm_source=899bc84164f119d0b3c7bdfbdf856d5b"
+					},
+					{
+						"type": "comiclink",
+						"url": "http://marvel.com/comics/characters/1010788/venom_mac_gargan?utm_campaign=apiRef&utm_source=899bc84164f119d0b3c7bdfbdf856d5b"
+					}
+				]
+			},
+			{
+				"id": 1011128,
+				"name": "Venom (Ultimate)",
+				"description": "While Eddie Brock’s academic career seemed to take off, his personal life was in shambles due to his quick temper and inability to connect with women on any level, and Eddie became isolated, but when his old friend Peter Parker contacted him, he felt a rush of enthusiasm: here, at last, was someone with whom he could truly bond.",
+				"modified": "2014-03-05T13:58:42-0500",
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/e/10/531773a976816",
+					"extension": "jpg"
+				},
+				"resourceURI": "http://gateway.marvel.com/v1/public/characters/1011128",
+				"comics": {
+					"available": 8,
+					"collectionURI": "http://gateway.marvel.com/v1/public/characters/1011128/comics",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/14846",
+							"name": "Ultimate Spider-Man (2000) #2"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/46915",
+							"name": "Ultimate Comics Spider-Man (2011) #16.1"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/6181",
+							"name": "Ultimate Spider-Man Ultimate Collection Book 1 (Trade Paperback)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/1012",
+							"name": "Ultimate Spider-Man Vol. 1: Power & Responsibility (Trade Paperback)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/17378",
+							"name": "Ultimates 3 (2007) #1"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/17377",
+							"name": "Ultimates 3 (2007) #1 (Gatefold Variant)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/26923",
+							"name": "Ultimates 3 (2007) #5"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/comics/24316",
+							"name": "Ultimates 3: Who Killed the Scarlet Witch? (Trade Paperback)"
+						}
+					],
+					"returned": 8
+				},
+				"series": {
+					"available": 6,
+					"collectionURI": "http://gateway.marvel.com/v1/public/characters/1011128/series",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/series/13831",
+							"name": "Ultimate Comics Spider-Man (2011 - 2013)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/series/466",
+							"name": "Ultimate Spider-Man (2000 - 2009)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/series/1919",
+							"name": "Ultimate Spider-Man Ultimate Collection Book 1 (2007)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/series/74",
+							"name": "Ultimate Spider-Man Vol. 1: Power & Responsibility (1999)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/series/3188",
+							"name": "Ultimates 3 (2007 - 2008)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/series/7515",
+							"name": "Ultimates 3: Who Killed the Scarlet Witch? (2009 - Present)"
+						}
+					],
+					"returned": 6
+				},
+				"stories": {
+					"available": 7,
+					"collectionURI": "http://gateway.marvel.com/v1/public/characters/1011128/stories",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/30327",
+							"name": "Growing Pains",
+							"type": "interiorStory"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/36428",
+							"name": "Sex, Lies, and DVDs 1 of 5",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/36430",
+							"name": "Ultimates 3 (2007) #1",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/141180",
+							"name": "interior to Ultimate Comics Spider-Man (2011) #16.1",
+							"type": "interiorStory"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/36431",
+							"name": "Sex, Lies, and DVDs 1 of 5",
+							"type": "interiorStory"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/59157",
+							"name": "Ultimates 3 (2007) #5",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/59158",
+							"name": "Interior #59158",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 7
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/characters/1011128/events",
+					"items": [],
+					"returned": 0
+				},
+				"urls": [
+					{
+						"type": "detail",
+						"url": "http://marvel.com/characters/1011128/venom_ultimate/featured?utm_campaign=apiRef&utm_source=899bc84164f119d0b3c7bdfbdf856d5b"
+					},
+					{
+						"type": "wiki",
+						"url": "http://marvel.com/universe/Venom_(Ultimate)?utm_campaign=apiRef&utm_source=899bc84164f119d0b3c7bdfbdf856d5b"
+					},
+					{
+						"type": "comiclink",
+						"url": "http://marvel.com/comics/characters/1011128/venom_ultimate?utm_campaign=apiRef&utm_source=899bc84164f119d0b3c7bdfbdf856d5b"
+					}
+				]
+			}
+		]
+	}
+}
